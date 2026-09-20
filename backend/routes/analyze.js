@@ -23,7 +23,7 @@ async function ask(systemPrompt, userMessage) {
   const response = await client.chat.completions.create({
     model: "openai/gpt-oss-20b",
     max_tokens: 2000,
-    reasoning_effort: "none",
+    reasoning_effort: "low",
     messages: [
       { role: "system", content: systemPrompt },
       { role: "user", content: cleanMessage }
