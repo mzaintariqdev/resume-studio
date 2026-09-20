@@ -17,6 +17,13 @@ Resume Studio solves this by:
 4. **Writing a cover letter** — personalized to the role, in your voice, not generic templates
 5. **Scoring the match** — shows % job fit, ATS score, strengths, gaps, and missing keywords
 
+
+
+## Video
+
+[screen-capture (14).webm](https://github.com/user-attachments/assets/47c24d9c-6c69-4322-9d49-2e52e7c2aeec)
+
+
 ---
 
 ## 🧠 How the AI Works
