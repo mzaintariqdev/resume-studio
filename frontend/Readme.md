@@ -2,7 +2,7 @@
 
 > Upload your resume, paste a job description, get an ATS-optimized resume + personalized cover letter in under 15 seconds.
 
-![Resume Studio](https://img.shields.io/badge/AI-Powered-6c63ff?style=flat-square) ![React](https://img.shields.io/badge/React-18-61dafb?style=flat-square&logo=react) ![Node.js](https://img.shields.io/badge/Node.js-Express-339933?style=flat-square&logo=node.js) ![Groq](https://img.shields.io/badge/Groq-LLaMA_3-f55036?style=flat-square) ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
+![Resume Studio](https://img.shields.io/badge/AI-Powered-6c63ff?style=flat-square) ![React](https://img.shields.io/badge/React-18-61dafb?style=flat-square&logo=react) ![Node.js](https://img.shields.io/badge/Node.js-Express-339933?style=flat-square&logo=node.js) ![Groq](https://img.shields.io/badge/Groq-openai-f55036?style=flat-square) ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
 
 ## 📌 What It Does
