@@ -36,7 +36,7 @@ app.get("/api/test-groq", async (_, res) => {
     const response = await client.chat.completions.create({
       model: "openai/gpt-oss-20b", // free, fast, very capable model
       max_tokens: 200,
-        reasoning_effort: "none",                   // how long the reply can be
+        reasoning_effort: "low",                   // how long the reply can be
       messages: [
         {
           role: "system",               // system = Claude's "job description"
